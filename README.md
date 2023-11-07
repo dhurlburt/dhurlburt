@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning Javascript, HTML, and CSS
+### 🔭 I’m currently working on building APIs
+### 🌱 I’m currently learning Python, Javascript, HTML, and CSS
+### 👯 I’m looking to collaborate on any simple Python project
 
 <!--
 **dhurlburt/dhurlburt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
